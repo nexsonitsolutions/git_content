@@ -1,4 +1,0 @@
-Git Commands
-git init - to initialize git functionality on a project
-git add  - to add files to staging area
-git commit - to commit the files to local repo
